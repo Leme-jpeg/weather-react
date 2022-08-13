@@ -37,7 +37,11 @@ export default function App() {
       </div>
       <br /> <br />
       <h4>
-        <a href="https://github.com/Leme-jpeg/weather-react" target="_blank">
+        <a
+          href="https://github.com/Leme-jpeg/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           Coded by Solange D.
         </a>
       </h4>
